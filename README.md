@@ -1,1 +1,3 @@
 # DeepLearningProject
+
+.ipynb_checkpoints/
